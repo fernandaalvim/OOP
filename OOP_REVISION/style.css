@@ -1,0 +1,21 @@
+ul{
+    display: flex;
+}
+
+li{
+    list-style: none;
+}
+
+ul li a{
+    text-decoration: none;
+    padding: 1rem;
+}
+
+body{
+    width: 80vw;
+    margin: auto;
+}
+
+.error{
+    color: red;
+}
